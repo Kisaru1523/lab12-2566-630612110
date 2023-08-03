@@ -13,6 +13,7 @@ export const Header = () => {
       style={{ color: theme.fgColor }}
     >
       {lang.header}
+      
     </p>
   );
 };
